@@ -1,5 +1,5 @@
 
-This repo contains all my work for CSC258, a computer science course offered at the University of Toronto.
+This repo contains all my lab work for CSC258, a computer science course offered at the University of Toronto.
 
 ## Course Description
 **CSC258: Computer Organization**
